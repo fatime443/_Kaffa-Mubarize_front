@@ -67,7 +67,7 @@ a:hover {
 }
 
 header {
-  background: url(http://kaffa.like-themes.com/wp-content/uploads/2019/06/inner_header_03.jpg);
+  background: url("../../image/bg/inner_header_03.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -727,7 +727,7 @@ header .middle .middle-icon ul li a i:hover {
 }
 
 .footer {
-  background-image: url(http://kaffa.like-themes.com/wp-content/uploads/2019/06/testimonials_parallax.jpg);
+  background-image: url("../../image/bg/testimonials_parallax (1).jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

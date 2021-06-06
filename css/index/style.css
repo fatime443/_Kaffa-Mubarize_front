@@ -810,7 +810,7 @@ header .nav-menu ul .li:hover .drop-down {
 }
 
 .roasted-section {
-  background: url(http://kaffa.like-themes.com/wp-content/uploads/2019/06/house_parallax.jpg);
+  background: url("../../image/bg/house_parallax.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -974,7 +974,7 @@ header .nav-menu ul .li:hover .drop-down {
 
 /*tabmenu start*/
 .tab-menu {
-  background: url(http://kaffa.like-themes.com/wp-content/uploads/2019/06/paper_bg.jpg);
+  background: url("../../image/bg/paper_bg.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1271,7 +1271,7 @@ header .nav-menu ul .li:hover .drop-down {
 }
 
 .testimonial-section {
-  background: url(http://kaffa.like-themes.com/wp-content/uploads/2019/06/testimonials_parallax.jpg);
+  background: url("../../image/bg/testimonials_parallax (1).jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1369,7 +1369,7 @@ header .nav-menu ul .li:hover .drop-down {
 }
 
 .logo-section {
-  background: url(http://kaffa.like-themes.com/wp-content/uploads/2019/06/paper_bg.jpg);
+  background: url("../../image/bg/paper_bg.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1584,7 +1584,7 @@ header .nav-menu ul .li:hover .drop-down {
 }
 
 .footer {
-  background-image: url(http://kaffa.like-themes.com/wp-content/uploads/2019/06/testimonials_parallax.jpg);
+  background-image: url("../../image/bg/testimonials_parallax (1).jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
